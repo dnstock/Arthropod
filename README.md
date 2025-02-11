@@ -1,4 +1,4 @@
-# Arthropod
+# XVision Smart
 Simple app dashboard for ESP32 / Arduino devices with an OLED display.
 
 ## Usage
@@ -13,7 +13,7 @@ To contribute, please follow these steps:
 1. Fork the repository
 
 ```sh
-gh repo fork git@github.com:dnstock/Arthropod.git
+gh repo fork git@github.com:dnstock/XVision.git
 ```
 
 2. Create a new branch
