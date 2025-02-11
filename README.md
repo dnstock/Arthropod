@@ -1,5 +1,5 @@
 # Arthropod
-Simple app dashboard for ESP32 / Arduino devices with OLED display.
+Simple app dashboard for ESP32 / Arduino devices with an OLED display.
 
 ## Usage
 AR smart glasses, smartwatch, smart mirror, smart home, etc.
